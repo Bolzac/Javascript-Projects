@@ -1,0 +1,7 @@
+.playfair{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+.newQuote:hover{
+  opacity: 0.7;
+}
